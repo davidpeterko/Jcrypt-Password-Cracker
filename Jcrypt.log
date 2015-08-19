@@ -1,0 +1,137 @@
+commit 637341f9806e187df1013be6318ee1ecae82fc66
+Author: David Ko <davidko@cs.utexas.edu>
+Date:   Thu Jul 23 15:16:35 2015 -0500
+
+    added progarm 4
+
+commit 6d8730cbdcb91fbeb428513c7083079b9761e977
+Author: David Ko <davidko@cs.utexas.edu>
+Date:   Thu Jul 23 15:15:59 2015 -0500
+
+    deleted
+
+commit 92342b3e6f025802f4afa1398d06c42ae775b687
+Author: David Ko <davidko@cs.utexas.edu>
+Date:   Thu Jul 23 15:13:47 2015 -0500
+
+    added AES program 5
+
+commit ede23727767caca86a84ae644e48802f179cf7d2
+Author: david ko <davidpeterko@gmail.com>
+Date:   Thu Jul 9 18:00:35 2015 -0500
+
+    added program 5
+
+commit b9603faeabb0279273a1dadfc133a3adebe38392
+Author: david ko <davidpeterko@gmail.com>
+Date:   Thu Jul 9 14:04:33 2015 -0500
+
+    added pdf
+
+commit 8d8d33f2f2377533be971bce4ece3ca39d4ac65c
+Author: David Ko <davidko@cs.utexas.edu>
+Date:   Thu Jul 9 12:25:50 2015 -0500
+
+    added week 5 questions
+
+commit 9c0dd8a53bd472f5a5eb2e50b880b92f2bb74aef
+Author: david ko <davidpeterko@gmail.com>
+Date:   Thu Jul 2 01:11:12 2015 -0500
+
+    week 4 questions as pdf
+
+commit e9fca31bc3045e1f314ef9163eb896e6f67a33dd
+Merge: 615a970 6a97116
+Author: David Ko <davidko@cs.utexas.edu>
+Date:   Wed Jul 1 17:22:49 2015 -0500
+
+    Merge branch 'master' of https://github.com/vsxx/CS361
+    pulled
+
+commit 615a970bee8711fac7cbb2d5a28689057efd0d8e
+Author: David Ko <davidko@cs.utexas.edu>
+Date:   Wed Jul 1 17:22:34 2015 -0500
+
+    week 4 questions.
+
+commit 6a9711678150865ab4f1cecd17fee1f56e13c174
+Author: david ko <davidpeterko@gmail.com>
+Date:   Sat Jun 27 20:29:02 2015 -0500
+
+    Added program 3
+
+commit d6c6709b6f255424d10837bcc2c105f27c43ae42
+Author: david ko <davidpeterko@gmail.com>
+Date:   Tue Jun 23 16:45:10 2015 -0500
+
+    added program 2
+
+commit aa15eb125dbbde88986570f61efa35d0f948b6f5
+Author: David Ko <davidko@cs.utexas.edu>
+Date:   Thu Jun 18 11:31:30 2015 -0500
+
+    removed program 2
+
+commit ba6cb946e8c30446024a71a52ccab0718e33fd96
+Author: david ko <davidpeterko@gmail.com>
+Date:   Wed Jun 17 22:28:40 2015 -0500
+
+    added pdf for week 2 questions
+
+commit 6fb6f827ea6ec3cdd63be37e97028bd9f6ecd9e5
+Author: david ko <davidpeterko@gmail.com>
+Date:   Wed Jun 17 22:27:20 2015 -0500
+
+    Added program 2
+
+commit 8578e9f787db10ba86e41069a649318f09e36f13
+Author: david ko <davidpeterko@gmail.com>
+Date:   Thu Jun 11 04:51:38 2015 -0500
+
+    added program 1
+
+commit d66c9b9975685bccef6797c2e73e92738412d1f7
+Author: david ko <davidpeterko@gmail.com>
+Date:   Tue Jun 9 18:28:58 2015 -0500
+
+    changed name of file, added readme header
+
+commit 9aae412a8d5320902025513446cc1d322c65df80
+Author: david ko <davidpeterko@gmail.com>
+Date:   Sat Jun 6 19:56:51 2015 -0500
+
+    finished week 1 lectures questions module 1-3
+
+commit 99add8ffe7ce64f4d9be6a03fd24b6e3d7139fd6
+Author: david ko <davidpeterko@gmail.com>
+Date:   Sat Jun 6 14:44:53 2015 -0500
+
+    changed file extension
+
+commit 63455b9b36fe5dec8c2e8932d68a8516e43c2e91
+Author: david peter ko <davidpeterko@gmail.com>
+Date:   Fri Jun 5 19:30:15 2015 -0500
+
+    Update CS361 Questions: Week 1
+    
+    finished up to lecture 4
+
+commit cdb718be8b21f9bcff52eadd6e3363da2dbb209f
+Author: david peter ko <davidpeterko@gmail.com>
+Date:   Fri Jun 5 18:48:16 2015 -0500
+
+    Create README.md
+
+commit 37d3e833457d082c613a728c96dff2a7a82ba905
+Author: david peter ko <davidpeterko@gmail.com>
+Date:   Fri Jun 5 18:47:52 2015 -0500
+
+    Update CS361 Questions: Week 1
+    
+    question1
+
+commit 5e03e31324ea91f52d20b686e4b8d07acb50a5e4
+Author: david ko <davidpeterko@gmail.com>
+Date:   Fri Jun 5 19:54:03 2015 -0500
+
+    added week 1 questions
